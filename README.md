@@ -5,9 +5,8 @@ So I’m new in this world.
 
 [![Mail Badge](https://img.shields.io/badge/-sthielp-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sthielp@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@SofiThiel-1ca0f1?style=flat&labelcolor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SofiThiel)](https://twitter.com/SofiThiel)
-[![Linkedin Badge]]
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSofiThiel
-(https://img.shields.io/twitter/-@SofiThiel-?style=flat&labelcolor=&logo=twitter&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/-Sofia Thiel-0e76a8?style=flat&labelcolor=0e76a8&logo=likedin&logoColor=white&link=https://www.linkedin.com/in/sof%C3%ADa-thiel-pizarro-939602206/)](https://www.linkedin.com/in/sof%C3%ADa-thiel-pizarro-939602206/)
+
 More info. about myself:
 
 - :sunny: I’m from Costa Rica and I speak spanish

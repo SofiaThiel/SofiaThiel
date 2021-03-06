@@ -14,7 +14,6 @@ More info. about myself:
 [![Mail Badge](https://img.shields.io/badge/-sthielp-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sthielp@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@SofiThiel-1ca0f1?style=flat&labelcolor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SofiThiel)](https://twitter.com/SofiThiel)
 [![Linkedin Badge](https://img.shields.io/badge/-SofiaThiel-0e76a8?style=flat&labelcolor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sof%C3%ADa-thiel-pizarro-939602206/)](https://www.linkedin.com/in/sof%C3%ADa-thiel-pizarro-939602206/)
-- 😄 Pronouns: Sofi
-- ⚡ Fun fact: I love going to the gym 
+- ⚡ Fun fact: I love working out and eat chocolate chip cookies
 
 

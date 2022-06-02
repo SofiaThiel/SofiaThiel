@@ -7,7 +7,7 @@ So I’m new in this world.
 More info. about myself:
 
 - :sunny: I’m from Costa Rica and I speak spanish
-- 🔭 I’m currently doing a master in physics, working as a Professor at the University of Costa Rica and working as a Visualization and Data Management Specialist I at Kepler 
+- 🔭 I’m currently doing a master in Medical Physics, working as a Professor at the University of Costa Rica and working as a Visualization and Data Management Specialist I at Kepler 
 - 🌱 I’m currently learning more physics and data science 
 - 💬 Ask me about anything 
 - 📫 How to reach me: 

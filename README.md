@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is **Sofia Thiel**, I’m a physicist and since a few months I get interested in data science and artificial inteligence. 
-So I’m new in this world.
+My name is **Sofia Thiel**, I’m a physicist and since a few years I get interested in data science and artificial inteligence. 
 
 
 More info. about myself:

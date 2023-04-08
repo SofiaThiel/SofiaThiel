@@ -6,7 +6,7 @@ So I’m new in this world.
 
 More info. about myself:
 
-- :sunny: I’m from Costa Rica and I speak spanish
+- :sunny: I’m from Costa Rica and I speak spanish and English
 - 🔭 I’m currently doing a master in Big Data and Data Science, worked as a Professor at the University of Costa Rica and worked as a Visualization and Data Management Specialist I at Kepler, now I'm working as a Statistical Programmer for Labcorp
 - 🌱 I’m currently learning more physics and data science 
 - 💬 Ask me about anything 
